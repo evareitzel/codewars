@@ -2,7 +2,7 @@
 
 // Description: 
 
-// My Solution: 
+// My Solution:
 
 // Best Practice Solutions: 
 
