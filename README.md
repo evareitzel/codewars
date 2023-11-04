@@ -1,3 +1,3 @@
 # codewars
 
-This is a Git repository for my completed Codewars challenges!
+This is a Git repository for my Codewars challenges!
