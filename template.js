@@ -1,4 +1,4 @@
-// KATA NAME
+// CHALLENGE NAME
 
 // Description: 
 
